@@ -40,7 +40,17 @@ Dalam file [ini](./Kuis_1_SVM_RBF_Kernel.ipynb) kami melakukan percobaan dengan 
 
 Naive Bayes adalah sebuah algoritma klasifikasi yang didasarkan pada Teorema Bayes dengan asumsi bahwa fitur-fitur yang digunakan dalam klasifikasi adalah saling independen dan memiliki pengaruh yang sama terhadap kelas yang diinginkan.
 
-#### 2.1 Multinomial Naive Bayes dengan PCA
+#### 2.1 Gaussian Naive Bayes dengan PCA
+
+Dalam file [ini](./Kuis_1_PCA_Gaussian_Naive_Bayes.ipynb) kami melakukan percobaan dengan menggunakan Gaussian Naive Bayes dengan PCA untuk feature reduction, dengan berbagai nilai test size. Berikut adalah hasilnya :
+
+| Test Size | Accuracy |
+|-----------|----------|
+| 0,3       | 87,01%   |
+| 0,2       | 87,17%   |
+| 0,1       | 86,81%   |
+
+#### 2.2 Multinomial Naive Bayes dengan PCA
 
 Dalam file [ini](./Kuis_1_Naive_Bayes_Multinomial.ipynb) kami melakukan percobaan dengan menggunakan Multinomial Naive Bayes dengan PCA untuk feature reduction, dengan berbagai nilai test size. Berikut adalah hasilnya :
 
