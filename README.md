@@ -38,7 +38,7 @@ Dalam file [ini](./Kuis_1_SVM_RBF_Kernel.ipynb) kami melakukan percobaan dengan 
 
 #### 1.2 SVM Linear Kernel Non Hyper Parameter Tunning
 
-Dalam file [ini](./Kuis_1_SVM Linear.ipynb), dilakukan percobaan menggunakan metode linear regression, PCA juga digunakan disini, berikut adalah hasilnya
+Dalam file [ini](./Kuis_1_SVM%20Linear.ipynb), dilakukan percobaan menggunakan metode linear regression, PCA juga digunakan disini, berikut adalah hasilnya
 
 | Test Size | Accuracy |
 | --------- | -------- |
