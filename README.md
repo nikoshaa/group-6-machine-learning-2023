@@ -4,11 +4,11 @@
 
 ## Group 6
 
-[Wildan Hafidz Mauludin](https://github.com/nikoshaa)
-[Dhayu Intan Nareswari](https://github.com/DhayuIntan)
-[Farhan Dwi Pramana](https://github.com/FarhanDwiPramana)
-[Mochammad Zaky Zamroni](https://github.com/zakyzuf)
-[Ziedny Bisma Mubarok](https://github.com/Ziedny28)
+- [Wildan Hafidz Mauludin](https://github.com/nikoshaa)
+- [Dhayu Intan Nareswari](https://github.com/DhayuIntan)
+- [Farhan Dwi Pramana](https://github.com/FarhanDwiPramana)
+- [Mochammad Zaky Zamroni](https://github.com/zakyzuf)
+- [Ziedny Bisma Mubarok](https://github.com/Ziedny28)
 
 ## Kasus - Klasifikasi Tulisan Tangan dengan Dataset MNIST
 
