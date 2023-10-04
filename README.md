@@ -26,15 +26,25 @@ Dataset MNIST (Modified National Institute of Standards and Technology) merupaka
 
 SVM (Support Vector Machine) adalah salah satu metode klasifikasi yang paling populer dan kuat. SVM adalah metode klasifikasi biner, yang mengklasifikasikan data menjadi dua bagian.
 
-#### 1.1 SVM, RBF Kernel, Hyperparameter Tuning
+#### 1.1 SVM RBF Kernel Hyperparameter Tuning
 
 Dalam file [ini](./Kuis_1_SVM_RBF_Kernel.ipynb) kami melakukan percobaan dengan menggunakan SVM dengan kernel RBF, dengan berbagai nilai test size, dan dengan hyperparameter tuning. Berikut adalah hasilnya :
 
 | Test Size | Accuracy |
-|-----------|----------|
+| --------- | -------- |
 | 0,3       | 98,54%   |
 | 0,2       | 98,58%   |
 | 0,1       | 98.64%   |
+
+#### 1.2 SVM Linear Kernel Non Hyper Parameter Tunning
+
+Dalam file [ini](./Kuis_1_SVM Linear.ipynb), dilakukan percobaan menggunakan metode linear regression, PCA juga digunakan disini, berikut adalah hasilnya
+
+| Test Size | Accuracy |
+| --------- | -------- |
+| 0,3       | 83,81%   |
+| 0,2       | 84,55%   |
+| 0,1       | 83,77%   |
 
 ### 2. Naive Bayes
 
@@ -45,7 +55,7 @@ Naive Bayes adalah sebuah algoritma klasifikasi yang didasarkan pada Teorema Bay
 Dalam file [ini](./Kuis_1_PCA_Gaussian_Naive_Bayes.ipynb) kami melakukan percobaan dengan menggunakan Gaussian Naive Bayes dengan PCA untuk feature reduction, dengan berbagai nilai test size. Berikut adalah hasilnya :
 
 | Test Size | Accuracy |
-|-----------|----------|
+| --------- | -------- |
 | 0,3       | 87,01%   |
 | 0,2       | 87,17%   |
 | 0,1       | 86,81%   |
@@ -55,10 +65,20 @@ Dalam file [ini](./Kuis_1_PCA_Gaussian_Naive_Bayes.ipynb) kami melakukan percoba
 Dalam file [ini](./Kuis_1_Naive_Bayes_Multinomial.ipynb) kami melakukan percobaan dengan menggunakan Multinomial Naive Bayes dengan PCA untuk feature reduction, dengan berbagai nilai test size. Berikut adalah hasilnya :
 
 | Test Size | Accuracy |
-|-----------|----------|
+| --------- | -------- |
 | 0,3       | 90,34%   |
 | 0,2       | 90,42%   |
 | 0,1       | 90,37%   |
+
+#### 2.3 Gaussian Naive Bayes dengan Histogram
+
+Dalam file [ini](<./Kuis1_Gaussian_Naive_Bayes_(Histogram).ipynb>), dilakukan percobaan menggunakan metode Gaussian Naive Bayes, Histogram juga digunakan disini, berikut adalah hasilnya
+
+| Test Size | Accuracy |
+| --------- | -------- |
+| 0,3       | 56,38%   |
+| 0,2       | 56,25%   |
+| 0,1       | 56,25%   |
 
 ## License
 
